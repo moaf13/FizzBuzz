@@ -1,0 +1,23 @@
+{
+  "name": "wasifizzbuzz",
+  "version": "0.0.0",
+  "description": "REST API to calculate FizzBuzz value for a given range",
+  "main": "server.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moaf13/FizzBuzz.git"
+  },
+  "author": "Abdulwasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moaf13/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/moaf13/FizzBuzz#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "mocha-jshint": "^2.3.1"
+  }
+}
